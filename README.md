@@ -73,12 +73,7 @@ pip install -r requirements.txt
 python kerbo.py
 ```
 
-### Run the Python Tutorials (Optional)
 
-```bash
-python learn_class.py   # Python 类、继承、属性、魔术方法教程
-python learn.py         # Person 类简单测试
-```
 
 ## Core Implementation
 
